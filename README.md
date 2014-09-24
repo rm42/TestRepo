@@ -1,1 +1,1 @@
-This is the readme
+A simple gh-pages test repo
